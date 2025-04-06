@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on machine learning project at my Company.<br>👯 I’m looking to collaborate on AI/ML projects.<br>🤝 I’m looking for help with ML system design.<br>🌱 I’m currently learning ML system design.<br>💬 Ask me about software development and machine learning.<br>⚡ Fun fact I’m certified professional Machine Learning Engineer and Cloud Digital Leader by Google Cloud.
+🔭 I’m currently working on machine learning project at my Company.<br>👯 I’m looking to collaborate on AI/ML projects.<br>🌱 I’m currently learning ML system design.<br>💬 Ask me about software development and machine learning.<br>⚡ Fun fact I’m certified professional Machine Learning Engineer and Cloud Digital Leader by Google Cloud.
 
 
 ## 🌐 Socials:
